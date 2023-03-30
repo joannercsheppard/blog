@@ -9,6 +9,7 @@ buildExpired: false
 canonifyURLs: true
 
 googleAnalytics: "G-W2CBE4EN6F"
+googleAnalyticsID: "G-W2CBE4EN6F"
 
 minify:
   disableXML: true
