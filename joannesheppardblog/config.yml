@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+canonifyURLs: true
 
 googleAnalytics: G-W2CBE4EN6F
 

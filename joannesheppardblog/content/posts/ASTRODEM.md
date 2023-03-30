@@ -18,6 +18,6 @@ In the end this project was [published in BMJOpen](https://bmjopen.bmj.com/conte
 
 This project taught me the value of interdisciplinary work and how it can lead to impactful solutions. It was a fascinating use case that set me on the path of becoming a researcher. Looking back, I am proud of the publication and grateful for the self-directed learning experience.
 
-![Me standing by my poster. Don't ask why I thought that yellow text was a good idea.](https://joannercsheppard.github.io/joannesheppard.io/img/jra-poster.JPG)
+![Me standing by my poster. Don't ask why I thought that yellow text was a good idea.](https://joannercsheppard.github.io/joannesheppard.io/img/joanne-sheppard-jra-poster.JPG)
 
 [1] https://www.bsms.ac.uk/research/primary-care-and-population-health/public-health/astrodem/index.aspx
