@@ -8,7 +8,7 @@ buildFuture: false
 buildExpired: false
 canonifyURLs: true
 
-googleAnalytics: GT-TWR88RR
+googleAnalytics: "G-W2CBE4EN6F"
 
 minify:
   disableXML: true
@@ -85,7 +85,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "GT-TWR88RR"
+      SiteVerificationTag: "G-W2CBE4EN6F"
 
   cover:
     hidden: true # hide everywhere but not in structured data
