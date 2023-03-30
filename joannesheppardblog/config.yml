@@ -1,6 +1,5 @@
 baseURL : 'https://joannercsheppard.github.io/joannesheppard.io/'
 title : Joanne Sheppard
-paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -20,7 +19,7 @@ params:
   title: Joanne Sheppard
   description: "A website to host my portfolio"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Joanne
+  author: Joanne Sheppard
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -74,7 +73,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Joanne Sheppard"
-    Content: Welcome to my portfolio
+    Content: Research Software Engineer
 
   socialIcons:
     - name: twitter
