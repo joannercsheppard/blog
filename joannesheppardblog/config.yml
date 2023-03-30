@@ -8,7 +8,7 @@ buildFuture: false
 buildExpired: false
 canonifyURLs: true
 
-googleAnalytics: G-W2CBE4EN6F
+googleAnalyticsID: G-W2CBE4EN6F
 
 minify:
   disableXML: true
@@ -82,14 +82,6 @@ params:
       url: "https://github.com/joannercsheppard"
     - name: linkedin
       url: "https://www.linkedin.com/in/joanne-sheppard-1308a4169/" 
-
-  analytics:
-    google:
-      SiteVerificationTag: "G-W2CBE4EN6F"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
