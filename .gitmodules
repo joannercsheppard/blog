@@ -1,0 +1,4 @@
+[submodule "joannesheppardblog/public"]
+	path = joannesheppardblog/public
+	url = https://github.com/joannercsheppard/joannesheppard.io.git
+	branch = main
