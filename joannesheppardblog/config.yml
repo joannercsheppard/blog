@@ -8,7 +8,7 @@ buildFuture: false
 buildExpired: false
 canonifyURLs: true
 
-googleAnalyticsID: G-W2CBE4EN6F
+googleAnalytics: G-W2CBE4EN6F
 
 minify:
   disableXML: true
