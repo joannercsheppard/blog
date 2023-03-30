@@ -1,4 +1,4 @@
-baseURL = 'http://joannesheppard.github.io/"
+baseURL = 'http://joannesheppard.github.io/'
 languageCode = 'en-us'
 title = 'Joanne Sheppard'
-theme: "PaperMod"
+theme = "hugo-PaperMod"
