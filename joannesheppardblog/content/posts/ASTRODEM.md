@@ -1,6 +1,6 @@
 ---
-title: "Project 1"
-date: 2023-03-30T15:28:36+01:00
+title: "My 1st post"
+date: 2020-09-15T11:30:03+00:00
 ---
 
-Example post 1 
+Example 1
