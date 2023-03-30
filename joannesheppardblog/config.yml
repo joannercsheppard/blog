@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Joanne Sheppard
-  description: "A website to host my portfolio"
+  description: "Research Software Engineer"
   keywords: [Blog, Portfolio, PaperMod]
   author: Joanne Sheppard
   images: ["https://avatars.githubusercontent.com/u/82256634?s=400&u=a93d1517538b1814a451389bf728cbcd556fa31b&v=4"]
@@ -82,6 +82,10 @@ params:
       url: "https://github.com/joannercsheppard"
     - name: linkedin
       url: "https://www.linkedin.com/in/joanne-sheppard-1308a4169/" 
+
+  analytics:
+    google:
+      SiteVerificationTag: "G-W2CBE4EN6F"
 
   cover:
     hidden: true # hide everywhere but not in structured data
