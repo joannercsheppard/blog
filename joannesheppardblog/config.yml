@@ -20,7 +20,7 @@ params:
   description: "A website to host my portfolio"
   keywords: [Blog, Portfolio, PaperMod]
   author: Joanne Sheppard
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["https://avatars.githubusercontent.com/u/82256634?s=400&u=a93d1517538b1814a451389bf728cbcd556fa31b&v=4"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
